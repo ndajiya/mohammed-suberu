@@ -13,7 +13,7 @@ const Index = () => {
             Welcome to my portfolio
           </Badge>
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Creating Digital Experiences
+            I am Mohammed Suberu
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
             I'm a developer passionate about building beautiful and functional web applications
