@@ -16,10 +16,10 @@ const SAMPLE_POSTS = [
     tags: ["CSS", "Design"]
   },
   {
-    title: "Understanding React Hooks",
+    title: "Understanding Economic Personality",
     excerpt: "Deep dive into React Hooks and how they can improve your React applications.",
     date: "2024-02-15",
-    slug: "understanding-react-hooks",
+    slug: "understanding-economic-personality",
     tags: ["React", "JavaScript"]
   }
 ];
