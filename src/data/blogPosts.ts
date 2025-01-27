@@ -24,7 +24,7 @@ export const blogPosts: BlogPost[] = [
       <h3>Getting Started</h3>
       <p>Begin with HTML and CSS basics, then move on to JavaScript fundamentals. Practice building simple websites and gradually increase complexity as you learn. Remember, every expert was once a beginner!</p>
     `,
-    date: "2024-02-20",
+    date: "2025-01-05",
     slug: "getting-started-web-development",
     tags: ["Web Development", "Beginners"]
   },
@@ -102,7 +102,7 @@ export const blogPosts: BlogPost[] = [
 
 
     `,
-    date: "2024-02-18",
+    date: "2025-01-25",
     slug: "economic-personality-factors",
     tags: ["Economics", "Psychology"]
   },
@@ -126,7 +126,7 @@ export const blogPosts: BlogPost[] = [
       rationality assumes people make decisions based on perfect information and careful calculation of costs and benefits. With economic personality 
       rationality can be narrowed down to learning where uncertainty also stems from.</p>
     `,
-    date: "2024-02-15",
+    date: "2021-01-15",
     slug: "understanding-economic-personality",
     tags: ["Economics", "Psychology"]
   }
