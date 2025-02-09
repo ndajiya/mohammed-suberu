@@ -63,7 +63,6 @@ const Portfolio = () => {
                 <Badge variant="secondary">React</Badge>
                 <Badge variant="secondary">TypeScript</Badge>
                 <Badge variant="secondary">Tailwind CSS</Badge>
-                <Badge variant="secondary">Stripe Integration</Badge>
               </div>
               <img 
                 src="/lovable-uploads/041e1cac-6362-472c-82a6-895d01494720.png" 
