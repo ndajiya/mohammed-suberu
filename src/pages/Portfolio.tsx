@@ -31,7 +31,7 @@ const Portfolio = () => {
                 <Badge variant="secondary">AI Integration</Badge>
               </div>
               <img 
-                src="/placeholder.svg" 
+                src="/lovable-uploads/362e5f4e-3edc-4b05-aa1f-5e5f11a065e9.png" 
                 alt="Actor AI Preview" 
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
