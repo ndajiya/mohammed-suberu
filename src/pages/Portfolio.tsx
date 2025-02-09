@@ -20,7 +20,7 @@ const Portfolio = () => {
             <CardHeader>
               <CardTitle>Actor AI</CardTitle>
               <CardDescription>
-                An AI-powered application that helps users practice acting by providing dynamic scene partners and feedback.
+                An AI-powered application that helps users practice acting by providing self-tape feedback and script generation.
               </CardDescription>
             </CardHeader>
             <CardContent>
