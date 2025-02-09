@@ -63,7 +63,6 @@ const Portfolio = () => {
                 <Badge variant="secondary">React</Badge>
                 <Badge variant="secondary">TypeScript</Badge>
                 <Badge variant="secondary">Tailwind CSS</Badge>
-                <Badge variant="secondary">E-commerce</Badge>
                 <Badge variant="secondary">Stripe Integration</Badge>
               </div>
               <img 
