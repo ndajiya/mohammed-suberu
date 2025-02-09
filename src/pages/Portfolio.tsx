@@ -50,6 +50,42 @@ const Portfolio = () => {
               </Button>
             </CardFooter>
           </Card>
+
+          <Card className="glass-card">
+            <CardHeader>
+              <CardTitle>Afternoon Tea Haven</CardTitle>
+              <CardDescription>
+                A modern e-commerce platform for a boutique tea shop, featuring an elegant design and seamless shopping experience.
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div className="flex flex-wrap gap-2 mb-4">
+                <Badge variant="secondary">React</Badge>
+                <Badge variant="secondary">TypeScript</Badge>
+                <Badge variant="secondary">Tailwind CSS</Badge>
+                <Badge variant="secondary">E-commerce</Badge>
+                <Badge variant="secondary">Stripe Integration</Badge>
+              </div>
+              <img 
+                src="/photo-1465146344425-f00d5f5c8f07" 
+                alt="Afternoon Tea Haven Preview" 
+                className="w-full h-48 object-cover rounded-md mb-4"
+              />
+            </CardContent>
+            <CardFooter className="flex gap-4">
+              <Button asChild>
+                <a 
+                  href="https://afternoon-tea-haven.lovable.app/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2"
+                >
+                  <ExternalLink className="h-4 w-4" />
+                  Live Demo
+                </a>
+              </Button>
+            </CardFooter>
+          </Card>
         </div>
       </div>
     </div>
