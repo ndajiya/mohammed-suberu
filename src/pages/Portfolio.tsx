@@ -66,7 +66,7 @@ const Portfolio = () => {
                 <Badge variant="secondary">Stripe Integration</Badge>
               </div>
               <img 
-                src="/photo-1465146344425-f00d5f5c8f07" 
+                src="/lovable-uploads/041e1cac-6362-472c-82a6-895d01494720.png" 
                 alt="Afternoon Tea Haven Preview" 
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
